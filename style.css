@@ -1,0 +1,32 @@
+h1{
+    color:red;
+    text-align: center;
+}
+img{
+    border:solid;
+    border-radius: 25;
+}
+
+.siddharth{
+
+    border:solid;
+   /* background-color: rosybrown;*/
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p,h2{
+    text-align: center;
+
+}
+
+body{
+
+    background-color: #9edede
+
+}
